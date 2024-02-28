@@ -26,7 +26,7 @@ int foo_stub(int a)
     return 0;
 }
 
-
+//yes yes eus
 int main()
 {
     Stub stub;
