@@ -4,7 +4,7 @@ int foo_stub()
     std::cout << "I am foo_stub" << std::endl;
     return 0;
 }
-
+//good
 int printf_stub(const char * format, ...)
 {
     std::cout<< "I am printf_stub" << std::endl;
